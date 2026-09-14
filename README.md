@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Replace with the actual URL to your company logo -->
-  <img src="https://via.placeholder.com/200x80?text=Qonfluens+Logo" alt="Qonfluens Logo" width="250"/>
+  <img width="148" height="148" alt="QONFLUENS_NOM_UNDER" src="https://github.com/user-attachments/assets/37c71b4d-9d42-4ac4-97a5-be977c91bcb6" />
   
   <h1>Qonfluens</h1>
   <p><b>Software Engineering for Wildlife Risk Assessment 🌿</b></p>
