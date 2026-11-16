@@ -1,7 +1,6 @@
 <div align="center">
-  <img width="148" height="148" alt="Qonfluens" src="https://github.com/user-attachments/assets/37c71b4d-9d42-4ac4-97a5-be977c91bcb6" />
+  <img width="236" height="168" alt="QONFLUENS_NOM_UnderMargin" src="https://github.com/user-attachments/assets/f1efacda-f29b-4c38-955f-76f2e826fcbd" />
 
-  <h1>Qonfluens</h1>
   <p><b>Models and software to assess wildlife health.</b><br/><code>&gt; from lab to landscape_</code></p>
 
   <a href="https://www.qonfluens.com/">Website</a> ·
