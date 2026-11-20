@@ -6,7 +6,8 @@
   <a href="https://www.qonfluens.com/">Website</a> ·
   <a href="https://www.qonfluens.com/lab/">Ecotox Lab</a> ·
   <a href="https://www.linkedin.com/company/qonfluens">LinkedIn</a> ·
-  <a href="https://www.qonfluens.com/#contact">Contact</a>
+  <a href="https://www.qonfluens.com/#contact">Contact</a> ·
+  <a href="https://github.com/sponsors/Qonfluens">Sponsor</a>
 </div>
 
 ---
@@ -30,7 +31,7 @@ We turn laboratory, in vitro and mesocosm data into predictive models that regul
 
 ### Ecotox Lab
 
-Free web apps for OECD dose-response analyses, SSD fitting and ecotoxicological datasets, hosted in Paris, with no account needed: **[qonfluens.com/lab](https://www.qonfluens.com/lab/)**.
+Free web apps for OECD dose-response analyses, SSD fitting and ecotoxicological datasets, hosted in Paris, with no account needed: **[qonfluens.com/lab](https://www.qonfluens.com/lab/)**. A small team maintains them: you can [support the Lab on GitHub Sponsors](https://github.com/sponsors/Qonfluens).
 
 ### Work with us
 
